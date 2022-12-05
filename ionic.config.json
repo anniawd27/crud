@@ -1,0 +1,7 @@
+{
+  "name": "crudnlogin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
